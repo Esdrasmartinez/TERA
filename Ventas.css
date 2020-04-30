@@ -1,0 +1,10 @@
+:root{
+  --box: 0px 0 2px 1px #e6e5e9; 
+  --color: white;
+}
+
+.modulo_pago{
+  background-color: var(--color);
+  box-shadow: var(--box);
+
+}
