@@ -1,0 +1,36 @@
+@media (max-width: 600px) {
+
+   #hero{
+       padding-top: 110px;
+       padding-bottom: 110px;
+   }
+  #image_default{
+      width: 0px;
+      height:   0px;
+  }
+
+  #text_hero > h1{
+      font-size: 100px;
+}
+#line_hero > img{
+    width: 0px;
+    height: 0px;
+}
+  
+#brand_name{
+    display: none;
+}
+#link_catalogue{
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+#components{
+    
+    flex-direction: column;
+}
+
+.content{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+}

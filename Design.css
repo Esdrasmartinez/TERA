@@ -1,0 +1,148 @@
+
+
+#all{
+  margin: 0px;
+}
+#div_nav{
+  background-color: #EEECEC;
+  display: flex;
+  justify-content: space-between;
+}
+#nav_menu{
+  display: flex;
+
+
+}
+#div_img{
+  margin: 10px 10px 10px 10px;
+}
+
+#div_list_nav{
+  display: flex;
+  list-style: none;
+  padding-left: 0px;
+  margin: 0px 0px 0px 40px;
+  justify-content: center;
+  align-items: center;
+ 
+  
+}
+
+.nav_text{
+  margin: 0px 10px 0px 10px;
+  text-decoration: none;
+  font-family: "DIN Pro";
+  font-weight: bold;
+  color: #434E52;
+
+}
+.nav_text:hover{
+  color: #5B8C85;
+  text-decoration: underline;
+}
+
+#img_nav{
+  width: 70px;
+  height: 70px;
+}
+
+
+
+.products{
+  
+  background-image: url("../Img/curve.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  height: 100px;
+}
+
+#hero{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  background-color: #5B8C85;
+  padding-top: 3%;
+  padding-bottom: 4%;
+}
+
+#image_default{
+  padding-top: 5%;
+  height: 35px;
+}
+
+#text_hero > h1 {
+  margin-top: 0px;
+  padding-left: 3%;
+  font-family: 'beyond_the_mountains';
+  color: #FFFFFF;
+  font-size: 100px;
+  line-height: 170%;
+  margin-bottom: auto;
+}
+
+#line_hero > img{
+   width: 340px;
+   height: 5px;
+   margin-bottom: auto;
+}
+
+#brand_name > h3{
+  color: white;
+  font-family: 'Din Pro';
+}
+#components{
+  display: flex;
+  justify-content: center;
+}
+
+#link_catalogue{
+  padding: 200px 0px 200px 0px;
+  background-color: #ECECEC;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 100px 0px 100px;
+}
+.content > picture > img{
+  width: 200px;
+  height: 200px;
+}
+
+.content >  h1{
+  font-family: Din Pro;
+  letter-spacing: -2px;
+  font-weight: 500;
+  color: #5B8C85;
+}
+
+.boton{
+  width: fit-content;
+
+  
+  background-color:#ECCE6D;
+  border-radius: 55px;
+}
+.boton:hover{
+  opacity: 0.50;
+  -moz-opacity: .50;
+  filter:alpha (opacity=50);
+}
+.boton a{
+  padding: 19px 35px 10px 35px;
+  font-family: Din Pro;
+  letter-spacing: -1px;
+  font-weight: 300;
+  color: #635723;
+  text-decoration: none;
+
+}
+
+#mobile_image > img{
+  height: 250px;
+  display: none;
+  
+}
