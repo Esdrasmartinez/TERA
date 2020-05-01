@@ -1,5 +1,9 @@
 @media (max-width: 600px) {
-
+    #div_list_nav{
+        margin-right: 20px;
+        display: flex;
+        justify-content: space-between;
+    }
    #hero{
        padding-top: 110px;
        padding-bottom: 110px;
