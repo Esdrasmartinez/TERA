@@ -1,5 +1,10 @@
 @media (max-width: 600px) {
 
+    #nav_menu{
+        width: fit-content;
+        display: flex;
+        justify-content: space-evenly;
+    }
    #hero{
        padding-top: 110px;
        padding-bottom: 110px;

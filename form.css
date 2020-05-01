@@ -50,13 +50,18 @@
   padding-top: 80px;
   width: auto;
 }
-#text_form > h1{
+#signin{
+  display: flex;
+  justify-content: center;
+}
+#signin > h1{
+  
   font-family: DIN Pro;
-  font-size: 40px;
+  font-size: 55px;
   color: #434E52;
   letter-spacing: -2px;   
   margin: 0px;
-  padding-left: 15px;
+
 }
 
 #text_form > img{
@@ -89,14 +94,15 @@
   padding-left: 15%;
 }
 #div_buttom_submit{
-  width: 200px;
+  width: 220px;
+  block-size: inherit;
   height: 32px;
-  margin: auto;
+  margin-left: 120px;
 }
 #submit_button{
   margin-top: 20px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
   background-color: #ECCE6D;
   border-radius: 15px;
   border: none;
@@ -112,3 +118,4 @@
   margin-top:100px;
   margin-bottom: 100px;
 }
+
