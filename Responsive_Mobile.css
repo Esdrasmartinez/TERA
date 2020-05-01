@@ -4,6 +4,9 @@
         display: flex;
         justify-content: space-between;
     }
+    .contactus > a{
+        padding-right: 10px;
+    }
    #hero{
        padding-top: 110px;
        padding-bottom: 110px;
