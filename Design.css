@@ -27,13 +27,17 @@
  
   
 }
+#nav_menu{
+  display: flex;
+  align-items: center;
+}
 
 .nav_text{
   margin: 0px 10px 0px 10px;
   text-decoration: none;
   font-family: "DIN Pro";
   font-weight: bold;
-  color: #434E52;
+  color: #434E52; 
 
 }
 .nav_text:hover{
