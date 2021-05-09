@@ -35,7 +35,7 @@
 .nav_text{
   margin: 0px 10px 0px 10px;
   text-decoration: none;
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: #434E52; 
 
@@ -66,7 +66,7 @@
   justify-content: space-evenly;
   flex-direction: column;
   align-items: center;
-  background-color: #5B8C85;
+  background-color: #222831;
   padding-top: 3%;
   padding-bottom: 4%;
 }
@@ -77,13 +77,30 @@
 }
 
 #text_hero > h1 {
-  margin-top: 0px;
-  padding-left: 3%;
-  font-family: 'beyond_the_mountains';
+  
+  padding-left: auto;
+  padding-right: auto;
+  font-family: 'Source Code Pro', monospace;
   color: #FFFFFF;
-  font-size: 100px;
-  line-height: 170%;
+  font-size: 70px;
+  padding-bottom: 50px;
   margin-bottom: auto;
+  text-align: center;
+  
+ 
+
+}
+
+#text_hero > h2 {
+  
+  padding-left: auto;
+  padding-right: auto;
+  font-family: 'Source Code Pro', monospace;
+  color: #FFFFFF;
+  font-size: 50px;
+  text-align: center;
+  
+
 }
 
 #line_hero > img{
