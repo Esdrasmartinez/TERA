@@ -11,10 +11,9 @@
 #nav_menu{
   display: flex;
 
-
 }
 #div_img{
-  margin: 10px 10px 10px 10px;
+  margin: 15px 15px 15px 15px;
 }
 
 #div_list_nav{
@@ -46,8 +45,8 @@
 }
 
 #img_nav{
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
 }
 
 
@@ -68,8 +67,8 @@
   flex-direction: column;
   align-items: center;
   background-color: #222831;
-  padding-top: 70px;
-  padding-bottom: 120px;
+  padding-top: 100px;
+  padding-bottom: 150px;
 }
 
 #image_default{
@@ -84,7 +83,7 @@
   padding-right: auto;
   font-family: 'Roboto', sans-serif;
   color: #FFFFFF;
-  font-size: 100px;
+  font-size: 120px;
   padding-bottom: 50px;
   margin-bottom: auto;
   text-align: center;
@@ -100,7 +99,7 @@
   padding-right: auto;
   font-family: 'Source Code Pro', monospace;
   color: #FFFFFF;
-  font-size: 50px;
+  font-size: 70px;
   text-align: center;
   font-weight: 600;
   
