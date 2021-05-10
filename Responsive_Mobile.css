@@ -43,4 +43,16 @@
     padding-top: 120px;
     padding-bottom: 120px;
 }
+
+#div_list_nav > li >a {
+font-size: 10px;
+}
+
+#img_nav{
+    width: 20px;
+    height: 20px;
+}
+
+
+
 }

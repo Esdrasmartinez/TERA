@@ -62,43 +62,47 @@
 }
 
 #hero{
+  
   display: flex;
   justify-content: space-evenly;
   flex-direction: column;
   align-items: center;
   background-color: #222831;
-  padding-top: 3%;
-  padding-bottom: 4%;
+  padding-top: 70px;
+  padding-bottom: 120px;
 }
 
 #image_default{
   padding-top: 5%;
   height: 35px;
+  padding-bottom: 50px;
 }
 
 #text_hero > h1 {
   
   padding-left: auto;
   padding-right: auto;
-  font-family: 'beyond_the_mountains';
+  font-family: Roboto;
   color: #FFFFFF;
   font-size: 100px;
   padding-bottom: 50px;
   margin-bottom: auto;
   text-align: center;
+  font-weight: 100;
+  margin-top: 0;
   
- 
 
 }
 
 #text_hero > h2 {
-  
+  margin-bottom: 0;
   padding-left: auto;
   padding-right: auto;
   font-family: 'Source Code Pro', monospace;
   color: #FFFFFF;
   font-size: 50px;
   text-align: center;
+  font-weight: 600;
   
 
 }
