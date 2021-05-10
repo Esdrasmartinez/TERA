@@ -137,33 +137,42 @@
 }
 
 .content >  h1{
-  font-family: Din Pro;
-  letter-spacing: -2px;
-  font-weight: 500;
-  color: #5B8C85;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color: #396384;
 }
+
+
+
 
 .boton{
   width: fit-content;
-
-  
-  background-color:#ECCE6D;
+  background-color: #6893ae;
   border-radius: 55px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
+
+
 .boton:hover{
   opacity: 0.50;
   -moz-opacity: .50;
   filter:alpha (opacity=50);
 }
 .boton a{
-  padding: 19px 35px 10px 35px;
-  font-family: Din Pro;
-  letter-spacing: -1px;
-  font-weight: 300;
-  color: #635723;
+  padding: 40px;
+  
+  font-family: 'Roboto', sans-serif;
+  
+  font-weight: 600;
+  color: #fefefe;
   text-decoration: none;
 
 }
+
+
+
+
 
 #mobile_image > img{
   height: 250px;
