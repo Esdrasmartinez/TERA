@@ -2,8 +2,8 @@
     #div_list_nav > li.contactus > a{
         display: none;
     }
-    #img_nav{
-        margin-right: 0px;
+    #div_img{
+        margin: 0;
     }
     #div_list_nav{
         margin: 0;
@@ -13,16 +13,18 @@
 
 
 #div_list_nav > li > a {
-    
+    margin: 1px;
     font-size: 15px;
+    white-space: nowrap;
     
 
 }
+
 #div_list_nav > li {
-    margin: 10px;
+    margin: 5px;
 }
 #div_list_nav > li:nth-child(2){
-    width: 150%;
+    width: 300%;
     text-align: center ;
 }
 
@@ -88,27 +90,22 @@
     text-align: center;
 }
 
-.boton a{
-    padding: 40px;
-    
-    font-family: 'Roboto', sans-serif;
-    
-    font-weight: 600;
-    color: #fefefe;
-    text-decoration: none;
-  
-  }
+.boton{
+    justify-content: center;
+    text-align: center;
+
+}
   .boton a{
+    white-space: nowrap;
+    justify-content: center;
     padding: 40px;
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
-    
     font-weight: 600;
     color: #fefefe;
     text-decoration: none;
+    
   
   }
-
-
-
+ 
 }
