@@ -13,15 +13,17 @@
 
 
 #div_list_nav > li > a {
-    font-size: 13px;
-   
-    margin: 0;
+    
+    font-size: 15px;
+    
+
 }
 #div_list_nav > li {
     margin: 10px;
 }
 #div_list_nav > li:nth-child(2){
-    width: 80px;
+    width: 150%;
+    text-align: center ;
 }
 
 

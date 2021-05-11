@@ -46,7 +46,8 @@
 }
 .nav_text:hover{
   color: #5B8C85;
-  text-decoration: underline;
+  font-size: 150%;
+  
 }
 
 #img_nav{
