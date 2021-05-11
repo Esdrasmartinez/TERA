@@ -10,6 +10,7 @@
 }
 #nav_menu{
   display: flex;
+  margin-right: 2%;
 
 }
 #div_img{
@@ -19,24 +20,28 @@
 #div_list_nav{
   display: flex;
   list-style: none;
-  padding-left: 0px;
   margin: 0px 0px 0px 40px;
   justify-content: center;
   align-items: center;
+  
  
   
 }
 #nav_menu{
+      
   display: flex;
   align-items: center;
 }
 
 .nav_text{
+ 
   margin: 0px 10px 0px 10px;
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
   color: #434E52; 
+  font-size: 120%;
+
 
 }
 .nav_text:hover{

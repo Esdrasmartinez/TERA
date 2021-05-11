@@ -1,4 +1,7 @@
 @media (max-width: 800px) {
+    #div_list_nav > li.contactus > a{
+        display: none;
+    }
     #img_nav{
         margin-right: 0px;
     }
