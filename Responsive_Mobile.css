@@ -42,7 +42,7 @@
   #image_default{
      align-items:center;
       width: 90%;
-      height:   20px;
+      height:   17px;
       padding-left: 5%;
       padding-right: 5%;
   }
@@ -57,7 +57,7 @@
     margin-left: 7%;
     margin-right: 7%;
     font-weight: 100;
-    font-size: 350%;
+    font-size: 300%;
 }
 #line_hero{
     display: none;
