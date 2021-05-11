@@ -20,7 +20,6 @@
 #div_list_nav{
   display: flex;
   list-style: none;
-  margin: 0px 0px 0px 40px;
   justify-content: center;
   align-items: center;
   
@@ -31,6 +30,7 @@
       
   display: flex;
   align-items: center;
+  margin-right: 2%;
 }
 
 .nav_text{
@@ -38,12 +38,17 @@
   margin: 0px 10px 0px 10px;
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
-  font-weight: 600;
   color: #434E52; 
-  font-size: 120%;
-
-
 }
+#div_list_nav_index{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  
+}
+
 .nav_text:hover{
   color: #5B8C85;
   font-size: 150%;
