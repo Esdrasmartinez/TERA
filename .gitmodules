@@ -1,0 +1,3 @@
+[submodule "E-code"]
+	path = E-code
+	url = https://github.com/Esdrasmartinez/E-code.git
