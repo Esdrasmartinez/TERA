@@ -1,0 +1,122 @@
+ 
+.container{
+ 
+  max-width: 900px;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}
+
+.col-1 { width:  8.333333333% }
+.col-2 { width: 16.666666666% }
+.col-3 { width: 24.999999999% }
+.col-4 { width: 33.333333333% }
+.col-5 { width: 41.666666666% }
+.col-6 { width: 49.999999999% }
+.col-7 { width: 58.333333333% }
+.col-8 { width: 66.666666666% }
+.col-9 { width: 74.9999999999% }
+.col-10{ width: 84.333333333% }
+.col-11{ width: 92.66666666% }
+.col-12{ width: 99.99999999% } 
+
+.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-8,.col-9,.col-10,.col-11,.col-12{
+  padding: 10px;
+}
+.text_grid{
+  font-family: 'Open Sans';
+  font-size: 13px;
+
+}
+
+#text_grid_1{
+  align-self: center;
+}
+@media (max-width: 800px){
+
+  .row{
+    display: inherit;
+    background-color: var(--green-color);
+  }
+ .col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-8,.col-9,.col-10,.col-11,.col-12{ 
+  width: 100%;
+}
+}
+
+
+
+#text_form{
+  padding-top: 80px;
+  width: auto;
+}
+#signin{
+  display: flex;
+  justify-content: center;
+}
+#signin > h1{
+  font-family: DIN Pro;
+  font-size: 55px;
+  color: #434E52;
+  letter-spacing: -2px;   
+  margin: 0px;
+ 
+}
+
+#text_form > img{
+  padding-left: 13px;
+  height: 2px;
+  width: 250px;
+}
+
+#text_form > h2{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-weight: 600;
+  color: #ECCE6D;
+  width: 270px;
+  margin: 0px;
+}
+.text_input{
+  margin-right: 15%;
+  margin-left: 15%;
+  width: 70%;
+  margin-bottom: 10px;
+  box-shadow:  1px 1px 3px;
+  height: 30px;
+}
+
+#login_form > form > label{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  padding-left: 15%;
+}
+#div_buttom_submit{
+  width: 200px;
+  height: 32px;
+  margin-left: 120px;
+}
+#submit_button{
+  margin-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #ECCE6D;
+  border-radius: 15px;
+  border: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+#submit_button:hover{
+  opacity: 80%;
+}
+
+#container_1{
+  margin-top:100px;
+  margin-bottom: 100px;
+}

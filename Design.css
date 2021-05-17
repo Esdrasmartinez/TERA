@@ -1,0 +1,192 @@
+
+
+#all{
+  margin: 0px;
+}
+#div_nav{
+  background-color: #EEECEC;
+  display: flex;
+  justify-content: space-between;
+}
+#nav_menu{
+  display: flex;
+  margin-right: 2%;
+
+}
+#div_img{
+  margin: 15px 15px 15px 15px;
+}
+
+#div_list_nav{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  
+ 
+  
+}
+#nav_menu{
+      
+  display: flex;
+  align-items: center;
+  margin-right: 2%;
+}
+
+.nav_text{
+ 
+  margin: 0px 10px 0px 10px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  color: #434E52; 
+}
+#div_list_nav_index{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  
+}
+
+.nav_text:hover{
+  color: #5B8C85;
+  font-size: 150%;
+  
+}
+
+#img_nav{
+  width: 90px;
+  height: 90px;
+}
+
+
+
+.products{
+  
+  background-image: url("../Img/curve.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  height: 100px;
+}
+
+#hero{
+  
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  background-color: #222831;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+#image_default{
+  padding-top: 5%;
+  height: 35px;
+  padding-bottom: 50px;
+}
+
+#text_hero > h1 {
+  
+  padding-left: auto;
+  padding-right: auto;
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF;
+  font-size: 120px;
+  padding-bottom: 50px;
+  margin-bottom: auto;
+  text-align: center;
+  font-weight: 100;
+  margin-top: 0;
+  
+
+}
+
+#text_hero > h2 {
+  margin-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  font-family: 'Source Code Pro', monospace;
+  color: #FFFFFF;
+  font-size: 70px;
+  text-align: center;
+  font-weight: 600;
+  
+
+}
+
+#line_hero > img{
+   width: 340px;
+   height: 5px;
+   margin-bottom: auto;
+}
+
+#brand_name > h3{
+  color: white;
+  font-family: 'Din Pro';
+}
+#components{
+  display: flex;
+  justify-content: center;
+}
+
+#link_catalogue{
+  padding: 200px 0px 200px 0px;
+  background-color: #ECECEC;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 100px 0px 100px;
+}
+.content > picture > img{
+  width: 200px;
+  height: 200px;
+}
+
+.content >  h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color: #396384;
+}
+
+
+
+
+.boton{
+  width: fit-content;
+  background-color: #6893ae;
+  border-radius: 55px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+.boton:hover{
+  opacity: 0.50;
+  -moz-opacity: .50;
+  filter:alpha (opacity=50);
+}
+.boton a{
+  padding: 40px;
+  
+  font-family: 'Roboto', sans-serif;
+  
+  font-weight: 600;
+  color: #fefefe;
+  text-decoration: none;
+
+}
+
+
+
+
+
+#mobile_image > img{
+  height: 250px;
+  display: none;
+  
+}
