@@ -8,3 +8,10 @@
     justify-content: space-evenly;
 
 }
+
+#body_html img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 200px;
+    width: 350px;
+}
