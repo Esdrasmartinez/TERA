@@ -2,3 +2,9 @@
     padding: 30px;
     background-color: aquamarine;
 }
+
+#body_html{
+    display: flex;
+    justify-content: space-evenly;
+
+}
