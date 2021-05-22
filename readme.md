@@ -9,8 +9,8 @@
 
 <br> 
 <p align = "center">
-<a href="https://github.com/Esdrasmartinez/code"><img width = "120px" height = "30px" src = "https://drive.google.com/uc?export=view&id=1HM-KYCilZJslK7ArqjRDudkF7dyfXCWQ" ></a>
-<a href="https://esdrasmartinez.github.io/E-code/Index.html"><img width = "120px" height = "30px" src = "https://drive.google.com/uc?export=view&id=1UnrOABrtYi_qxcvnVW9FZr1HbPKDB1tX"><a>
-<a href=""><img width = "120px" height = "30px" src = "https://drive.google.com/uc?export=view&id=1zXS2OUCXt2VDFoE6is-uKROEHoQhN2Ru"></a>
-<a href=""><img width = "130px" height = "30px" src = "https://drive.google.com/uc?export=view&id=1V0tg_ifNh_k8zQbncuWTfxdV9b9VXc7L"></a></p>
+<a href="https://github.com/Esdrasmartinez/code"><img img width = "120px" height = "30px" src="https://i.ibb.co/q70S0WM/1.png" alt="1"> </a>
+<a href="https://esdrasmartinez.github.io/E-code/Index.html"> <img width = "120px" height = "30px" src="https://i.ibb.co/yPn2k49/2.png" alt="2" > <a>
+<a href=""><img width = "120px" height = "30px" src="https://i.ibb.co/mqRpJcj/3.png" alt="3"> </a>
+<a href=""><img width = "120px" height = "30px" src="https://i.ibb.co/bbTd9B6/4.png" alt="4" > </a></p>
 
