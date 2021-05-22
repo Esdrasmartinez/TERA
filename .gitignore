@@ -1,4 +1,4 @@
 *jpg
 *pdf
 /bin
-!bin/exception
+!/bin/4x/*png
