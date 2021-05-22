@@ -1,7 +1,7 @@
 
 
-<center><p><a href="https://esdrasmartinez.github.io/E-code/Index.html"><img width = "150px" height = "150px" src="https://drive.google.com/uc?export=view&id=18mbjDu0XPw2y54yu29PQK26jFLjNcYoQ"> </a> </p></center>
-<center> <h2> E-code</h> <center>
+<p align = "center"><a href="https://esdrasmartinez.github.io/E-code/Index.html"><img width = "150px" height = "150px" src="https://drive.google.com/uc?export=view&id=18mbjDu0XPw2y54yu29PQK26jFLjNcYoQ"> </a> </p></center>
+<p align ="center"><h2> E-code</h2> </p>
 <br> 
 <p align = "center">
 <a href="https://github.com/Esdrasmartinez/code"><img width = "120px" height = "30px" src = "https://drive.google.com/uc?export=view&id=1HM-KYCilZJslK7ArqjRDudkF7dyfXCWQ" ></a>
