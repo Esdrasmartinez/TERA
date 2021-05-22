@@ -1,10 +1,10 @@
 
 
 <p align = "center">
-<a href="https://esdrasmartinez.github.io/E-code/Index.html"><img width = "150px" height = "150px" src="https://drive.google.com/uc?export=view&id=18mbjDu0XPw2y54yu29PQK26jFLjNcYoQ"> </a>  </p>
+<a href="https://esdrasmartinez.github.io/E-code/Index.html"><img img width = "150px" height = "150px" src="https://i.ibb.co/j8wP7t4/e-fav.png" alt="e-fav" border="0"> </a>  </p>
 
 <p align = "center">
-<img width = "150px" height = "50px" src= "https://drive.google.com/uc?export=view&id=1EYGE5LywQeTXRf_1d9S0fuG2byiIQqrh">  </p>
+<img width = "150px" height = "50px" src="https://i.ibb.co/DKqsthq/code.png" alt="code" ></p>
 
 
 <br> 
