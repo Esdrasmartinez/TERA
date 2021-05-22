@@ -1,1 +1,4 @@
-*.jpg
+*jpg
+*pdf
+/bin
+!bin/exception
