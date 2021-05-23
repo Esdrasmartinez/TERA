@@ -17,10 +17,20 @@
 <br>
 <h2>Acerca de E-code</h2>
 
-E-code es un proyecto personal que busca crear herramientas de apoyo para materias escolares. En el repositorio podrás encontrar piezas de código hechas en Python que son capaces de resolver ciertos problemas. 
+Ecode es un proyecto personal que busca crear herramientas de apoyo para materias escolares. En el repositorio podrás encontrar piezas de código hechas en Python que son capaces de resolver ciertos problemas. 
 A día de hoy se encuentra en fase beta 1.0, aunque todos los códigos son completamente funcionales aún se deben corregir errores y ejecutar tests para comprobar la eficacia de estos. 
 <br>
 <br>
 <h2>Instalación</h2>
 Los códigos en su mayoría no requieren de ninguna instalación, podrás simplemente copiarlos y pegarlos en algún compilador online. Sin embargo si tienes un entorno local podrás hacer un "Git clone" y ejecutarlos localmente. Si deseas más información por favor visita la sección FAQ de mi sitio web podrás acceder a él desde las etiquetas en la parte superior
+
+<br>
+<br>
+Todos los códigos son grátis pero si me sigues en <a href= "https://www.instagram.com/esdrasmartinezzz/?hl=es-la"> Instagram</a> no me quejo ;) 
+
+<br>
+<br>
+<br>
+<br>
+<p align = "center"> <img height = "50px" src="https://i.ibb.co/wWzbqY2/Recurso-1-4x.png" alt="Recurso-1-4x" border="0"></p>
 
