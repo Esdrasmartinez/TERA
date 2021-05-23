@@ -190,3 +190,13 @@
   display: none;
   
 }
+
+#body_faq {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#body_faq h1{
+  color: #434E52;
+  font-family: 'Roboto', sans-serif;
+}
