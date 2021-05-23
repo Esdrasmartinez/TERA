@@ -200,3 +200,12 @@
   color: #434E52;
   font-family: 'Roboto', sans-serif;
 }
+
+
+#hero_faq{
+  background-color: #5B8C85;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
